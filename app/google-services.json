@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688706201645",
+    "firebase_url": "https://project-team-750eb-default-rtdb.firebaseio.com",
+    "project_id": "project-team-750eb",
+    "storage_bucket": "project-team-750eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688706201645:android:c2b9b6a253a18c0ce870a4",
+        "android_client_info": {
+          "package_name": "com.example.team.findlocalplacesinar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688706201645-k05ijhm1ac6ibvs8vmvgb283ojf9d98i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.team.findlocalplacesinar",
+            "certificate_hash": "471649a9405afe285cbb419ff7d123a731ffbe2f"
+          }
+        },
+        {
+          "client_id": "688706201645-9fega6bahhg9upfvmol91utkuda8r4au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7GVw0XIwOToLAzYSBEfGqz4Vr9evDZgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688706201645-9fega6bahhg9upfvmol91utkuda8r4au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
